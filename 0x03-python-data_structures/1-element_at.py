@@ -9,8 +9,3 @@ def element_at(my_list, idx):
         return (None)
 
     return(my_list[idx])
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-
